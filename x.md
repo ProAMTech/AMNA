@@ -19,4 +19,4 @@ https://global.amna.cc
 -------
 备注：可能会有更新,如果失效请打开这个链接查看最新域名！
 👉
-https://github.com/ProAMTech/AMNA/blob/main/README.md
+https://github.com/ProAMTech/AMNA/blob/main/x.md
